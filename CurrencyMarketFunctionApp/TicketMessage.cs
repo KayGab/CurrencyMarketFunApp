@@ -11,5 +11,6 @@ namespace CurrencyMarketFunctionApp
         public String MessageId { get; set; }
         public String MailboxName { get; set; }
         public String SenderMail { get; set; }
+        public String Comment { get; set; }
     }
 }
